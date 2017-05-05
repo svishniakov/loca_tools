@@ -1,0 +1,12 @@
+*idea/
+*.xml
+*.csv
+*.xlsx
+*.xls
+*.txt
+*.zip
+*.sqlite3
+*.game_csv_fr
+*.game_csv_de
+*.game_csv_en
+*.game_csv_zh
